@@ -1,21 +1,21 @@
 # Hi, I'm Anders Ryan! 👋
 ## About Me 🌱
-- I am a recent graduate from the University of Missouri where I majored in Computer Science and minored Mathematics.
-- I enjoy learning how things work and applying that knowledge to my code.
-- Ouside of programming I enjoy reading, backpacking and coaching for my local swim team.
+- Recent Computer Science graduate from the University of Missouri with a minor in Mathematics
+- I enjoy learning how systems work and applying that understanding to my code.
+- Outside of programming, I enjoy reading, backpacking and coaching for my local swim team.
 
 ## Languages 👨‍💻
-- C/C++, Rust and Python
+- C/C++, Rust, Python
 
 ## Certifications 📑
-- AWS Certified Cloud Praticitioner
+- AWS Certified Cloud Practitioner
 - Azure AI fundamentals (AI 900)
-- Currently pursuing Azure Administer Associate (AZ 104)
+- Currently pursuing Azure Administrator Associate (AZ 104)
 
 ## Currently Exploring 🔭
-- I have currently been trying to make myself a better interview candidate by gaining certificatiosn through AWS and Azure.
-- I'm currently pursueing roles in software engineering aswell as cloud engineer or soluitons archetiect.
-- In my free time I have recently delved into 3D rendering using OpenGL to diplay and predict satellite prositiosn in near earth orbit.
+- Strengthening my cloud and systems knowledge through AWS and Azure certifications.
+- Currently pursuing roles in software engineering, cloud engineering and solutions architecture.
+- In my free time I have been exploring 3D rendering in OpenGL, including a project to display and predict satellite positions in near earth orbit.
 
 ## How to reach me 💬
 - Email: anders4143@gmail.com
