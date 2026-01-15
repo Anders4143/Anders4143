@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anders Ryan!
+
+## About Me
+- I am a recent graduate from the University of Missouri where I majored in Computer Science and Mathematics.
+- I enjoy learning how things work and applying that knowledge to my code.
+- Ouside of programming I enoying reading, swimming and backpacking.
+
+## Languages
+- I am experienced in C/C++, Rust and Python
+
+## Certifications
+- AWS Certified Cloud Praticitioner
+- Azure AI fundamentals (AI 900)
+- Currently pursuing Azure Administer Associate (AZ 104)
+
+## Currently Exploring
+- I have currently been trying to make myself a better interview candidate by gaining certificatiosn through AWS and Azure.
+- I'm currently pursueing roles in software engineering aswell as cloud engineer or soluitons archetiect.
+- In my free time I have recently delved into 3D rendering using OpenGL to diplay and predict satellite prositiosn in near earth orbit. 
 
 <!--
 **Anders4143/Anders4143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
