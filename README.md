@@ -10,7 +10,7 @@
 ## Certifications 📑
 - AWS Certified Cloud Practitioner
 - Azure AI fundamentals (AI 900)
-- Currently pursuing Azure Administrator Associate (AZ 104)
+- Azure Administrator Associate (AZ 104)
 
 ## Currently Exploring 🔭
 - Strengthening my cloud and systems knowledge through AWS and Azure certifications.
